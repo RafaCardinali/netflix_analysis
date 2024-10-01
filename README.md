@@ -26,7 +26,7 @@ A análise foi realizada utilizando a linguagem Python e as bibliotecas `pandas`
 
 1. Clone este repositório: 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/RafaCardinali/netflix_analysis.git
     ```
 2. Instale as dependências:
     ```bash
